@@ -3,3 +3,7 @@
   width: 100%;
   height: 500px;
 }
+
+.arjs-textBoxItem {
+  line-height: normal;
+}
